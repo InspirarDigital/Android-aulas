@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_register">Register</string>
+</resources>
