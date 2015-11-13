@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula3</string>
+
+    <string name="api_test">api.openweathermap.org/data/2.5/weather?id=2172797</string>
+    <string name="api_url">http://api.openweathermap.org/data/2.5/weather?id=%1$s</string>
+    <string name="api_juiz_de_fora">3459504</string>
+    <string name="api_sapucaia">3448031</string>
+    <string name="api_rio_de_janeiro">3451190</string>
+    <string name="api_belo_horizonte">3405814</string>
+    <string name="api_gracas">6955599</string>
+    <string name="api_maceio">6320645</string>
+    <string name="prompt">Selecione</string>
+
+</resources>

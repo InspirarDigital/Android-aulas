@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities">
+        <item>Sapucaia</item>
+        <item>Rio de Janeiro</item>
+        <item>Belo Horizonte</item>
+        <item>Juiz de Fora</item>
+        <item>Maceió</item>
+        <item>Graças</item>
+    </string-array>
+
+</resources>
