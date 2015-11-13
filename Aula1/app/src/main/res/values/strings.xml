@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula1</string>
+    <string name="action_settings">Settings</string>
+
+    // labels
+    <string name="lbl_user">User</string>
+    <string name="lbl_password">Password</string>
+
+    //buttons
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+</resources>
