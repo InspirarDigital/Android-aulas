@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material</string>
+    <string name="drawer_header_text">Drawer Header</string>
+
+    <string name="nav_item_1">nav item 1</string>
+    <string name="nav_item_2">nav item 2</string>
+    <string name="nav_item_3">nav item 3</string>
+    <string name="nav_sub_menu">nav sub menu</string>
+    <string name="nav_sub_menu_1">nav sub menu 1</string>
+    <string name="nav_sub_menu_2">nav sub menu 2</string>
+</resources>
